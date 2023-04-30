@@ -1,0 +1,34 @@
+*{
+    padding:0;
+    margin: 0;
+}
+/*COLUMNA DE DIAS*/
+th{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: brown;
+}
+/*TITULO DE TABLA*/
+.mititulo{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*COLUMNA DE HORARIOS*/
+.mihorario{
+    font-weight: bold;
+    background-color: brown;
+    text-align: center;
+}
+/*DISEÑO DE BODY*/
+body{
+    background-color: khaki;
+}
+/*DISEÑO DE FOOTER*/
+footer{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
